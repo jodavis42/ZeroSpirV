@@ -1,0 +1,6 @@
+[submodule "SPIRV-Tools"]
+	path = SPIRV-Tools
+	url = https://github.com/jodavis42/SPIRV-Tools.git
+[submodule "SPIRV-Cross"]
+	path = SPIRV-Cross
+	url = https://github.com/jodavis42/SPIRV-Cross.git
